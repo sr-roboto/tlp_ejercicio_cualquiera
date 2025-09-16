@@ -1,0 +1,20 @@
+{
+  "name": "tlp_exercices",
+  "version": "1.0.0",
+  "description": "",
+  "types": "module",
+  "scripts": {
+    "dev": "tsx watch src/app-cualquiera.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^24.5.0",
+    "typescript": "^5.9.2"
+  },
+  "dependencies": {
+    "tsx": "^4.20.5"
+  }
+}
